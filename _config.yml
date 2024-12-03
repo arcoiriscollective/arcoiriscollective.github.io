@@ -1,0 +1,5 @@
+title: Arcoíris Collective
+description: Promoting ethical Mexican crafts and supporting Zapatista communities.
+theme: leap-day
+baseurl: "" # Leave blank unless you are hosting under a subdirectory
+url: "https://arcoiriscollective.github.io" # Update with custom domain later
